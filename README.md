@@ -1,4 +1,6 @@
-👋 My name is Ai Dana.
+👋 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=My+name+is+Aidana)](https://git.io/typing-svg)
 
 _____________________________________________________________________________________________________________________________________________________________
 ###💻 Tech Stack
