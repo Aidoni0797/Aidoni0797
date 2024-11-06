@@ -1,6 +1,7 @@
 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=My+name+is+Aidana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=My+name+is+Aidana;I'm+currently+studying+Python+programming+and+the+Django+framework)](https://git.io/typing-svg)
+
 
 _____________________________________________________________________________________________________________________________________________________________
 ###💻 Tech Stack
