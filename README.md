@@ -20,6 +20,7 @@ ________________________________________________________________________________
 ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Discipline](https://img.shields.io/badge/Discipline%20-00C957?style=for-the-badge&logoColor=white)
 
 
 ### Skills
