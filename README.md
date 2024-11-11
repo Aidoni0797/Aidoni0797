@@ -23,6 +23,10 @@ ________________________________________________________________________________
 ![Discipline](https://img.shields.io/badge/Discipline%20-00C957?style=for-the-badge&logoColor=white)
 
 
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aidoni0797&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+
 ### Skills
 - 🐍 Python (Django, FastAPI)
 - 🗃️ Working with databases and SQL
