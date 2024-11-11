@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШЕ_ИМЯ_ПОЛЬЗОВАТЕЛЯ&theme=radical&hide_border=false&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidoni0797&theme=radical&hide_border=false&layout=compact&langs_count=10)
 
 
 ### Skills
