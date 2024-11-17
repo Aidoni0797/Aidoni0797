@@ -21,7 +21,6 @@ ________________________________________________________________________________
 ![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Discipline](https://img.shields.io/badge/Discipline%20-00C957?style=for-the-badge&logoColor=white)
-![I need to check everything](https://img.shields.io/badge/Discipline%20-00C957?style=for-the-badge&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidoni0797&theme=radical&hide_border=false&layout=compact&langs_count=10)
