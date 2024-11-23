@@ -1,0 +1,12 @@
+<svg width="100%" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <rect width="100%" height="150" fill="#ffffff" />
+  <path d="M0,75 Q50,30 100,75 T200,75 T300,75 T400,75 T500,75 T600,75 T700,75 T800,75 T900,75 T1000,75"
+        fill="transparent"
+        stroke="#36a6eb"
+        stroke-width="4" />
+  <circle cx="0" cy="75" r="10" fill="#36a6eb">
+    <animateMotion dur="4s" repeatCount="indefinite">
+      <mpath xlink:href="#snake-path" />
+    </animateMotion>
+  </circle>
+</svg>
