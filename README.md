@@ -43,5 +43,5 @@ ________________________________________________________________________________
 
 ### Contact me
 - [LinkedIn](https://www.linkedin.com/in/ai-doni-102a7b308)
-- [Instagram](https://www.instagram.com/aidon0797/)
+- [Instagram](https://www.instagram.com/python_developer_idoni/)
 - [Email](mailto:a19071997@mail.ru)
