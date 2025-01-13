@@ -27,8 +27,6 @@ ________________________________________________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidoni0797&theme=radical&hide_border=false&layout=compact&langs_count=10)
 
 
-![Snake animation](https://github.com/Aidoni0797/Aidoni0797/raw/main/snake.svg)
-
 ### Skills
 - 🐍 Python (Django, FastAPI)
 - 🗃️ Working with databases and SQL
