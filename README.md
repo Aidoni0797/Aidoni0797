@@ -1,6 +1,6 @@
-👋 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=My+name+is+Aidana;I'm+currently+studying+programming)](https://git.io/typing-svg)
+<h1 align="center">
+ Hi there<img src="wave.gif" height="60px"> I'm iDONi
+</h1>
 
 
 _____________________________________________________________________________________________________________________________________________________________
