@@ -23,6 +23,7 @@ ________________________________________________________________________________
 ![Discipline](https://img.shields.io/badge/Discipline%20-00C957?style=for-the-badge&logoColor=white)
  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Bot](https://img.shields.io/badge/Bot-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
 
 
 # 📊 GitHub Stats:
