@@ -25,7 +25,8 @@ ________________________________________________________________________________
  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Bot](https://img.shields.io/badge/Bot-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Книга](https://img.shields.io/badge/Книга-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Книга](https://img.shields.io/badge/Книга-412991?style=for-the-badge&logo=book&logoColor=white)
+
 
 
 
