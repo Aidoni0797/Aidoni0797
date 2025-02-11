@@ -28,7 +28,8 @@ ________________________________________________________________________________
 ![Книга](https://img.shields.io/badge/Книга-412991?style=for-the-badge&logo=book&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![BotFather](https://img.shields.io/badge/BotFather-000000?style=for-the-badge&logo=telegram&logoColor=white)
-
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+```
 
 
 # 📊 GitHub Stats:
