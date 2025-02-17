@@ -30,6 +30,7 @@ ________________________________________________________________________________
 ![BotFather](https://img.shields.io/badge/BotFather-000000?style=for-the-badge&logo=telegram&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ```
 
 
