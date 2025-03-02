@@ -32,6 +32,7 @@ ________________________________________________________________________________
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![DBViewer](https://img.shields.io/badge/DBViewer-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=spacy&logoColor=white)
 ```
 
 
