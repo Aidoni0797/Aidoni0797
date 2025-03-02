@@ -34,6 +34,7 @@ ________________________________________________________________________________
 ![DBViewer](https://img.shields.io/badge/DBViewer-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=spacy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ```
 
 
