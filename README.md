@@ -39,6 +39,10 @@ ________________________________________________________________________________
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ```
 
+<div dir="auto" style="display: flex; justify-content: space-between; align-items: center;">
+  <img style="width: 90%; box-sizing: border-box;" src="https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidoni0797&theme=radical&hide_border=false&layout=compact&langs_count=10)
