@@ -37,11 +37,7 @@ ________________________________________________________________________________
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-5C5CFF?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Aidana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mglay&theme=tokyo-night)
-```
-
-
-
+![Snake animation](https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidoni0797&theme=radical&hide_border=false&layout=compact&langs_count=10)
@@ -64,3 +60,9 @@ ________________________________________________________________________________
 - [LinkedIn](https://www.linkedin.com/in/ai-doni-102a7b308)
 - [Instagram](https://www.instagram.com/python_developer_idoni/)
 - [Email](mailto:a19071997@mail.ru)
+```
+
+
+
+
+
