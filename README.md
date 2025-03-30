@@ -43,7 +43,6 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidoni0797&theme=radical&hide_border=false&layout=compact&langs_count=10)
 
