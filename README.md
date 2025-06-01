@@ -69,6 +69,6 @@ ________________________________________________________________________________
 ```
 
 
-
+https://user-badge.committers.top/kazakhstan/ТВОЙ_ЛОГИН.svg)](https://committers.top/kazakhstan.html
 
 
