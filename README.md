@@ -42,6 +42,7 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Huawei](https://img.shields.io/badge/Huawei-E60026?style=for-the-badge&logo=huawei&logoColor=white)
 ![Snake animation](https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg)
+[![Committers Top](https://user-badge.committers.top/kazakhstan/Aidoni0797.svg)](https://committers.top/kazakhstan.html)
 
 
 
@@ -70,5 +71,4 @@ ________________________________________________________________________________
 ```
 
 
-[![Committers Top](https://user-badge.committers.top/kazakhstan/Aidoni0797.svg)](https://committers.top/kazakhstan.html)
 
