@@ -3,8 +3,9 @@
 <h1 align="center">
  Hi there<img src="wave.gif" height="60px"> I'm iDONi
 </h1>
-
+<h1 align="center">
 [![Committers Top](https://user-badge.committers.top/kazakhstan/Aidoni0797.svg)](https://committers.top/kazakhstan.html)
+ </h1>
 _____________________________________________________________________________________________________________________________________________________________
 ###💻 Tech Stack
 
