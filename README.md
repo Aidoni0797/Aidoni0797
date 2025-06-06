@@ -4,7 +4,7 @@
  Hi there<img src="wave.gif" height="60px"> I'm iDONi
 </h1>
 
-
+[![Committers Top](https://user-badge.committers.top/kazakhstan/Aidoni0797.svg)](https://committers.top/kazakhstan.html)
 _____________________________________________________________________________________________________________________________________________________________
 ###💻 Tech Stack
 
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Huawei](https://img.shields.io/badge/Huawei-E60026?style=for-the-badge&logo=huawei&logoColor=white)
 ![Snake animation](https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg)
-[![Committers Top](https://user-badge.committers.top/kazakhstan/Aidoni0797.svg)](https://committers.top/kazakhstan.html)
+
 
 
 
