@@ -66,6 +66,7 @@ ________________________________________________________________________________
 - [LinkedIn](https://www.linkedin.com/in/ai-doni-102a7b308)
 - [Instagram](https://www.instagram.com/python_developer_idoni/)
 - [Email](mailto:a19071997@mail.ru)
+- [🌐 GitLab](https://gitlab.com/aidoni0797)
 ```
 
 
