@@ -5,7 +5,9 @@
 </h1>
 
 [![Committers Top](https://user-badge.committers.top/kazakhstan/Aidoni0797.svg)](https://committers.top/kazakhstan.html)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aidoni0797)
 
 _____________________________________________________________________________________________________________________________________________________________
 ###💻 Tech Stack
