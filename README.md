@@ -45,6 +45,7 @@ ________________________________________________________________________________
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Huawei](https://img.shields.io/badge/Huawei-E60026?style=for-the-badge&logo=huawei&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-Deployed-orange?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Snake animation](https://raw.githubusercontent.com/CurtisChou-51/CurtisChou-51/output/github-contribution-grid-snake.svg)
 
 
